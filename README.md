@@ -1,4 +1,4 @@
-# Universal Language Learner �
+# contextual-translator
 
 A modern web application designed for language learners of any language pair. This tool provides intelligent, phrase-by-phrase translations that preserve context and structure, making it easier to understand source text while learning target language equivalents.
 
@@ -6,15 +6,15 @@ A modern web application designed for language learners of any language pair. Th
 
 - **🌐 Any Language Pair**: Choose from 20+ popular languages as source and target
 - **📝 Inline Translation**: Translates text with target language equivalents in parentheses after each phrase
-- **� Language Swap**: Instantly swap source and target languages with one click
-- **�📊 Real-time Progress**: Live progress tracking with ETA during translation
+- **↔️ Language Swap**: Instantly swap source and target languages with one click
+- **📊 Real-time Progress**: Live progress tracking with ETA during translation
 - **📁 File Processing**: Upload `.txt` files and download translated results
 - **🔄 Streaming Translation**: Real-time translation updates as text is processed
 - **🎯 Context Preservation**: Maintains original formatting, punctuation, and sentence structure
 - **🧠 AI-Powered**: Uses GPT-4o-mini for intelligent, contextual translations
 - **📱 Responsive Design**: Modern UI built with Next.js and Tailwind CSS
 
-## � Supported Languages
+## 🌍 Supported Languages
 
 - English, Spanish, French, German, Italian, Portuguese
 - Russian, Ukrainian, Polish, Dutch, Swedish, Norwegian, Danish, Finnish
